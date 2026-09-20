@@ -62,8 +62,8 @@ This project utilizes `uv` for lightning-fast dependency management and environm
 **Clone the repository:**
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/mannangoel/automated-icd-coding.git
+cd automated-icd-coding
 
 ```
 
