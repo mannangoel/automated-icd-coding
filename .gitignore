@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+#Data
+data/raw/
+data/processed/*.pkl
+data/processed/*.pt
+data/processed/chroma_db/
+project.zip
+
+#Environment keys
+.env
+.env.local
+
+# Environments
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+
+# OS files
+.DS_Store
